@@ -1,0 +1,94 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  padding: 20px 0 12px;
+}
+
+.stepWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.dot {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 600;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  transition: background var(--transition-base), border-color var(--transition-base), color var(--transition-base);
+}
+
+.active .dot {
+  background: var(--primary-glow);
+  border-color: var(--primary);
+  color: var(--primary);
+  animation: pulseDot 2s ease-in-out infinite;
+}
+
+.completed .dot {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+}
+
+.num {
+  line-height: 1;
+}
+
+.label {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-dim);
+  transition: color var(--transition-base);
+  white-space: nowrap;
+}
+
+.active .label {
+  color: var(--primary);
+}
+
+.completed .label {
+  color: var(--text-secondary);
+}
+
+.connector {
+  width: 40px;
+  height: 1px;
+  background: var(--border);
+  margin: 0 10px;
+  transition: background var(--transition-base);
+}
+
+.connectorFilled {
+  background: var(--primary);
+}
+
+@keyframes pulseDot {
+  0%, 100% { box-shadow: 0 0 0 0 var(--primary-glow); }
+  50% { box-shadow: 0 0 0 6px var(--primary-glow); }
+}
+
+@media (max-width: 560px) {
+  .label {
+    display: none;
+  }
+  .connector {
+    width: 24px;
+    margin: 0 6px;
+  }
+}

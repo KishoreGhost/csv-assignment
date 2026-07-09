@@ -1,0 +1,9 @@
+First Name,Last Name,Phone Number,Email Address,Company Name,Location,Notes,Lead Status,Created Date
+John,Doe,+91-9876543210,john.doe@example.com,GrowEasy,Mumbai Maharashtra India,Client is asking to reschedule demo,Hot Lead,13/05/2026
+Sarah,Johnson,91 9876543211,sarah.johnson@example.com,Tech Solutions,Bangalore Karnataka,Person was busy will try again next week,Did not answer,13/05/2026
+Rajesh,Patel,+919876543212,rajesh.patel@example.com,Startup Inc,Delhi Delhi India,Not interested in our services,Cold,13/05/2026
+Priya,Singh,9876543213,priya.singh@example.com,Enterprise Corp,Pune Maharashtra India,Deal closed onboarding in progress,Won,13/05/2026
+Mike,Smith,,mike.smith@example.com,,New York USA,Interested in premium plan,follow up,14/05/2026
+Anonymous User,,,,,Delhi,,interested,15/05/2026
+Amit,Kumar,8765432109,,Tata Consultancy,Chennai Tamil Nadu,Called twice no answer,pending,15/05/2026
+Lisa,Wang,+1-555-0123 and +1-555-0124,lisa.wang@company.com and backup@company.com,Global Corp,San Francisco CA USA,Multiple contacts provided,New Lead,16/05/2026

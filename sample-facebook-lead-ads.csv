@@ -1,0 +1,8 @@
+id,created_time,ad_id,ad_name,campaign_name,full_name,email,phone_number,company_name,city,state
+l_1001,2026-07-01 10:15:30,ad_fb_9982,Modern Living Plots Ad,Sarjapur Real Estate Project,Arun Kumar,arun.kumar@gmail.com,+919988776655,Kumar Builders,Bangalore,Karnataka
+l_1002,2026-07-01 10:20:45,ad_fb_9982,Modern Living Plots Ad,Sarjapur Real Estate Project,Deepa S.,deepas@yahoo.co.in,+91 9900112233,,Chennai,Tamil Nadu
+l_1003,2026-07-01 11:05:12,ad_fb_9985,Eden Park Luxury Towers,Eden Park Highrise Project,Robert Green,rob.green@outlook.com,1-555-893-0123,Green & Co,San Francisco,California
+l_1004,2026-07-01 11:30:00,ad_fb_9982,Modern Living Plots Ad,Sarjapur Real Estate Project,Nikhil Sharma,,+91-88888-77777,Sharma Traders,Delhi,Delhi
+l_1005,2026-07-01 12:12:15,ad_fb_9985,Eden Park Luxury Towers,Eden Park Highrise Project,Vikas Rao,vikas.rao@tata.com,+917777666655,,Hyderabad,Telangana
+l_1006,2026-07-01 14:02:11,ad_fb_9982,Modern Living Plots Ad,Sarjapur Real Estate Project,Facebook Test User,,,,
+l_1007,2026-07-01 15:45:22,ad_fb_9985,Eden Park Luxury Towers,Eden Park Highrise Project,Sneha Patel,sneha.patel@gmail.com,+919900990099,Patel Grocers,Mumbai,Maharashtra
