@@ -2,9 +2,7 @@
 
 An intelligent CSV import tool that uses AI to extract CRM lead information from any CSV format and maps it to GrowEasy CRM fields.
 
-**Live Demo:** [Add your hosted URL here]  
-**GitHub:** [Add your GitHub repo URL here]
-
+**Live Demo:** https://csv-ai-crm-assistant.vercel.app/ 
 ---
 
 ## Features
